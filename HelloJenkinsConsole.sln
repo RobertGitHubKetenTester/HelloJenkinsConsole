@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2048
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloJenkinsConsole", "HelloJenkinsConsole\HelloJenkinsConsole.csproj", "{3A971FB5-4B59-47A8-9A29-3B7F25325AA2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloJenkinsUnitTest", "HelloJenkinsUnitTest\HelloJenkinsUnitTest.csproj", "{ABBD67DB-2783-4577-B87C-4845B9DCF6E7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3A971FB5-4B59-47A8-9A29-3B7F25325AA2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A971FB5-4B59-47A8-9A29-3B7F25325AA2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A971FB5-4B59-47A8-9A29-3B7F25325AA2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A971FB5-4B59-47A8-9A29-3B7F25325AA2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ABBD67DB-2783-4577-B87C-4845B9DCF6E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABBD67DB-2783-4577-B87C-4845B9DCF6E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABBD67DB-2783-4577-B87C-4845B9DCF6E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABBD67DB-2783-4577-B87C-4845B9DCF6E7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {88344F72-64A7-4605-A884-B39729B16EA5}
+	EndGlobalSection
+EndGlobal
