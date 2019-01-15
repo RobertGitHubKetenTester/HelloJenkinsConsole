@@ -14,8 +14,7 @@ namespace HelloJenkinsConsole
 
             //slechte code gemaakt vanwege sonarcubetest in Jenkins
             int a = 100;
-            int b = 0;
-            int c = a / b;
+            int c = a / 0;
         }
 
         public static String CreateMessage()
